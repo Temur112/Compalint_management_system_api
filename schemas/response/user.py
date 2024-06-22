@@ -6,6 +6,6 @@ class UserOut(UserBase):
     id: int
     phone: str
     first_name: str
-    last_name:str
+    last_name: str
     role: RoleType
     iban: str
